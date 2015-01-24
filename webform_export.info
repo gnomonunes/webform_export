@@ -1,0 +1,8 @@
+; $Id: $
+name = Webform Export
+description = Additional tools for exporting Webform submitted data.
+core = 7.x
+package = Webform
+version = 0.0.1
+
+dependencies[] = webform
